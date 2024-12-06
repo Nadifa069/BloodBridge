@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749692494982",
+    "project_id": "booldbrige",
+    "storage_bucket": "booldbrige.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749692494982:android:e349f81277b840d54d1d07",
+        "android_client_info": {
+          "package_name": "com.example.jubloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xpfrAvOMu6XFEPXrHQrx36yb6fW43sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
